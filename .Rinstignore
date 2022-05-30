@@ -1,3 +1,8 @@
 .gitignore
 travis-tool.sh
 vignette/figure
+docs/
+icon.png
+README.rmd
+_pkgdown.yml
+overview.png
